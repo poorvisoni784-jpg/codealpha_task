@@ -1,27 +1,32 @@
-# 🎮 Hangman Game (Python)
+# 🤖 Basic Python Chatbot
 
-A simple **text-based Hangman game** built in Python.  
-Perfect for beginners learning:
+A beginner-friendly **rule-based chatbot** written in Python.
 
-- `random`
-- `while` loops
-- `if-else`
-- strings
-- lists
+This chatbot responds to a few simple text inputs using predefined replies.
 
 ---
 
-## 🚀 Features
-- 5 predefined words  
-- 6 incorrect guesses allowed  
-- Clean console-based gameplay  
-- Well-commented and beginner-friendly code  
+## ✨ Features
+- Predefined inputs:
+  - `"hello"`
+  - `"how are you"`
+  - `"bye"`
+- Predefined responses:
+  - `"Hi!"`
+  - `"I'm fine, thanks!"`
+  - `"Goodbye!"`
+- Simple and clean code for learning
+- Uses:
+  - `if-elif`
+  - functions
+  - loops
+  - input/output
 
 ---
 
 ## ▶ How to Run
 
 1. Install Python 3  
-2. Clone the repo:
+2. Clone this repo:
    ```bash
-   git clone https://github.com/yourusername/hangman-game.git
+   git clone https://github.com/yourusername/basic-chatbot.git
